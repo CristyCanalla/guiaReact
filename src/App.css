@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+  max-width: 1200px;
+  margin: auto;
+  background-color: #675D50;
+}
+
+.cardProducto {
+  width: 18rem;
+  margin: 4px;
+  background-color: hsl(0, 0%, 97%);
+}
+
+.cardBody {
+  background-color: white;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+img {
+  margin-top:3px;
+}
+
+.cardProductos {
+  margin: 4px;
+  align-items:center;
+  justify-content: center;
+}
+
+.cartWidget {
+  position: relative;
+  right: 3%;
+  color:white;
+}
+
+.nav-link{
+  margin: 15px 20px;
+}
+
+.cantCarrito {
+  position: relative;
+  left: 15%;
+}
+
+.itemDetail {
+  max-width: 40%;
+  margin-top: 20px;
+}
+
+.cantCarrito {
+  position: relative;
+  left: 15%;
+}
+
+.itemDetail {
+  max-width: 40%;
+  margin-top: 20px;
+}
+.cartContainer {
+  margin-top:3%;
+  margin-left: 26.5%;
+}
+.imgBody {
+  display:block;
+  margin:auto;
+  max-height: 100%;
+}
+
+.btn-secondary{
+  background-color: blue;
+}
+
+.bg-navbar {
+    background-color: black;
+}
+
+.card-color{
+  background-attachment: #F3DEBA;
+}

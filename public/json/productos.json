@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Mate Imperial Premium",
+        "precio": 25000,
+        "stock": 30,
+        "img": "mateimperialpremiun.jpg",
+        "descripcion": "Mate de calabaza forrado en cuero cincelado con virola y base de plata"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Mate Imperial Rústico",
+        "precio": 20000,
+        "stock": 20,
+        "img": "mateimperialrustico.jpg",
+        "descripcion": "Mate de calabaza forrado en cuero liso con cinta tipo pampa y virola de Alpaca"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Mate Imperial Abstracto",
+        "precio": 20000,
+        "stock": 15,
+        "img": "mateimperialabstracto.jpg",
+        "descripcion": "Mate de calabaza forrado en cuero liso con cinta tipo abstracta y virola de Alpaca grabada con láser"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Mate Camionero",
+        "precio": 12000,
+        "stock": 30,
+        "img": "matecamionero.jpg",
+        "descripcion": "Mate de calabaza forrado en cuero liso con  virola de Alpaca"
+    },
+    {
+        "id": 5,
+        "idCategoria": 1,
+        "nombre": "Mate Torpedo",
+        "precio": 12000,
+        "stock": 7,
+        "img": "matetorpedo.jpg",
+        "descripcion": "Mate de calabaza forrado en cuero liso con  virola de Alpaca"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Bombilla de Alpaca Pico de Loro",
+        "precio": 6000,
+        "stock": 20,
+        "img": "bombillapicodeloro.jpg",
+        "descripcion": "Bombilla de alpaca 100% artesanal"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Bombillón de Alpaca Pico de Rey",
+        "precio": 7500,
+        "stock": 10,
+        "img": "bombillonpicoderey.jpg",
+        "descripcion": "Bombillón de alpaca 100% artesanal"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Termo Stanley 1L",
+        "precio": 25000,
+        "stock": 30,
+        "img": "termostanley1l.jpg",
+        "descripcion": "Termo Stanley nueva generación classic 1l con tapón cebador"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Termo Stanley 1.4L",
+        "precio": 30000,
+        "stock": 21,
+        "img": "termostanley1-4l.jpg",
+        "descripcion": "Termo Stanley nueva generación classic 1.4l con tapón cebador"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Termo Termolar 1L",
+        "precio": 15000,
+        "stock": 25,
+        "img": "termotermolar1l.jpg",
+        "descripcion": "Termo Termolar R-evolution 1l con tapón cebador"
+    },
+    {
+        "id": 11,
+        "idCategoria": 4,
+        "nombre": "Yerba Baldo 1kg",
+        "precio": 2500,
+        "stock": 30,
+        "img": "yerbabaldo.jpg",
+        "descripcion": "Yerba Mate Baldo sin palo, sabor tradicional"
+    },
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "nombre": "Yerba Canarias 1kg",
+        "precio": 2200,
+        "stock": 20,
+        "img": "yerbacanarias.jpg",
+        "descripcion": "Yerba Mate Canarias sin palo, sabor tradicional"
+    }
+
+]
